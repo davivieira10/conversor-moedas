@@ -12,9 +12,7 @@ Java do Programa ONE. <br/>
 
 <br>
 
-<p align="center">
   <a href="https://imgbox.com/EfieRE2A" target="_blank"><img src="https://thumbs2.imgbox.com/9e/40/EfieRE2A_t.jpg" alt="image host"/></a>
-</p>
 
 ## 🚀 Tecnologias
 
