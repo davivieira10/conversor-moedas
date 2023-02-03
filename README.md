@@ -9,10 +9,11 @@ Java do Programa ONE. <br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-
 <br>
 
+<p align="center">
   <a href="https://imgbox.com/EfieRE2A" target="_blank"><img src="https://thumbs2.imgbox.com/9e/40/EfieRE2A_t.jpg" alt="image host"/></a>
+</p>
 
 ## 🚀 Tecnologias
 
@@ -72,6 +73,6 @@ E de consumo de combustíveis que deverá converte:
 - [Acesse o projeto]()
 
 <h3>BADGE recebida referente ao desafio proposto concluído.</h3>
-<img align="right" alt="Badge Conversor de Moedas Sprint I Java" width= "500" height="500" src=""></h3>
+<img align="right" alt="Badge Conversor de Moedas Sprint I Java" width= "500" height="500" src="<a href="https://imgbox.com/Mw8qrgzH" target="_blank"><img src="https://thumbs2.imgbox.com/6c/f4/Mw8qrgzH_t.png" alt="image host"/></a>"></h3>
 
 
