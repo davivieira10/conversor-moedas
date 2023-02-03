@@ -73,6 +73,8 @@ E de consumo de combustíveis que deverá converte:
 - [Acesse o projeto]()
 
 <h3>BADGE recebida referente ao desafio proposto concluído.</h3>
-[Imgur](https://i.imgur.com/sO2IH2O.png)
+<p align="center">
+  <img alt="Badge" src="https://i.imgur.com/sO2IH2O.png" width="100%">
+</p>
 
 
