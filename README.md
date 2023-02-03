@@ -69,9 +69,6 @@ E de consumo de combustíveis que deverá converte:
  - De Quilômetro por litro km/l para Milha por galão americano mpg EUA
  - De Milhas por galão imperial mpg imp para Milha por galão americano mpg EUA
 
-
-- [Acesse o projeto]()
-
 <h3>BADGE recebida referente ao desafio proposto concluído.</h3>
 <p align="center">
   <img alt="Badge" src="https://i.imgur.com/sO2IH2O.png" width="50%">
