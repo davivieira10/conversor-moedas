@@ -18,11 +18,12 @@ Java do Programa ONE. <br/>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
- - Java
- - Eclipse
- - Git e Github
+<b>As ferramentas utilizadas foram:</b>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/Java-plain.svg">
+  <img align="center" alt="Davi-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Davi-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
 ## 💻 Projeto
 
@@ -71,3 +72,8 @@ E de consumo de combustíveis que deverá converte:
 
 
 - [Acesse o projeto]()
+
+<h3>BADGE recebida referente ao desafio proposto concluído.</h3>
+<img align="right" alt="Badge Conversor de Moedas Sprint I Java" width= "500" height="500" src=""></h3>
+
+
