@@ -12,7 +12,7 @@ Java do Programa ONE. <br/>
 <br>
 
 <p align="center">
-  <img alt="Badge" src="https://i.imgur.com/PBCMPzo.jpg" width="50%">
+  <img alt="Badge" src="https://i.imgur.com/PBCMPzo.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
