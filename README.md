@@ -73,6 +73,6 @@ E de consumo de combustíveis que deverá converte:
 - [Acesse o projeto]()
 
 <h3>BADGE recebida referente ao desafio proposto concluído.</h3>
-<img align="right" alt="Badge Conversor de Moedas Sprint I Java" width= "500" height="500" src=""https://thumbs2.imgbox.com/6c/f4/Mw8qrgzH_t.png" alt="image host"/"</h3>
+<img align="right" alt="Badge Conversor de Moedas Sprint I Java" width= "500" height="500" src="https://thumbs2.imgbox.com/6c/f4/Mw8qrgzH_t.png" alt="Badge"/"</h3>
 
 
