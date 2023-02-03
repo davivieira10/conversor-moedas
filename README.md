@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de Moedas e como bônus também de Temperaturas, Distâncias e Consumo de Combustível </h1>
+<h1 align="center">Conversor de Moedas e como bônus também de Temperaturas, Distâncias e Consumo de Combustível.</h1>
 
 <p align="center">
 Challenge desenvolvido para a Sprint 1 da Formação de
