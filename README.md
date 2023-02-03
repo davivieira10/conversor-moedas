@@ -62,7 +62,7 @@ De distâncias que converte:
 
 E de consumo de combustíveis que converte:
 
- - De Milha por galão americano para Milhas por galão imperial
+ - De Milha por galão americano  mpg EUA para Milhas por galão imperial mpg imp
  - De Milha por galão americano mpg EUA para Quilômetro por litro km/l
  - De Milha por galão americano mpg EUA para Litro por 100 quilômetros l/100 km
  - De Litro por 100 quilômetros l/100 km para Milha por galão americano mpg EUA
