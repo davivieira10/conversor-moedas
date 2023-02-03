@@ -60,7 +60,7 @@ De distâncias que converte:
  - Centímetros a Metros
  - Milímetros a Metros
 
-E de consumo de combustíveis que deverá converte:
+E de consumo de combustíveis que converte:
 
  - De Milha por galão americano para Milhas por galão imperial
  - De Milha por galão americano mpg EUA para Quilômetro por litro km/l
